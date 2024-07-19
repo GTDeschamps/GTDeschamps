@@ -1,7 +1,13 @@
 
-# Hello World 👋
+# Hello World 👋 
 
-[![image](https://github.com/user-attachments/assets/0da95b2b-cc21-42dd-97ea-31d6455948ef)](https://drive.google.com/file/d/1Ic0Q6WP6uLxitYzYtUHd99zOEcfI_aAY/view?usp=drive_link)
+<div id="header" align="center">
+<img src="https://media1.giphy.com/media/RN8FdaB6T1bkkI5n4I/200w.webp?cid=ecf05e47w7hjrgc7n3p4ufcz6gq1vg0h88hczkbblqj64w0v&ep=v1_gifs_related&rid=200w.webp&ct=s" width="250"/>
+</div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/gdeschampsdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ## Présentation
 
@@ -17,10 +23,10 @@ This is why I decided to embark on this training, more particularly by specializ
 
 ## Statistiques
 
-![GTDeschamps's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTDeschamps&show_icons=true&theme=radical)
+![GTDeschamps's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTDeschamps&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GTDeschamps&layout=pie&langs_count=8)](https://github.com/GTDeschamps/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GTDeschamps&layout=pie&langs_count=6&hide=ASP.NET,shaderlab&show_icons=true&theme=tokyonight)](https://github.com/GTDeschamps/github-readme-stats)
 <!--
 **GTDeschamps/GTDeschamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
