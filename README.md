@@ -2,7 +2,7 @@
 # Hello World 👋 
 
 <div id="header" align="center">
-<img src="https://media1.giphy.com/media/RN8FdaB6T1bkkI5n4I/200w.webp?cid=ecf05e47w7hjrgc7n3p4ufcz6gq1vg0h88hczkbblqj64w0v&ep=v1_gifs_related&rid=200w.webp&ct=s" width="250"/>
+<img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" width="500"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/gdeschampsdev/">
